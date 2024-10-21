@@ -1,5 +1,5 @@
 # Sky Analytics: Navigating the Complexities of Airline and Airport Operations
-
+![Img](Image_dashboard_page-0001.jpg)
 ## Overview
 
 This project, titled **"Sky Analytics: Navigating the Complexities of Airline and Airport Operations,"** provides a comprehensive analysis of datasets related to flights, airlines, and airports. It aims to uncover insights into operational efficiency, delay patterns, airline performance, and airport traffic dynamics. The objective is to use these insights to recommend improvements for airline and airport operations.
